@@ -1,0 +1,4 @@
+2025-04-01 22:06:01 - Convert 100 USD to RUB => 8403.0 (OK)
+2025-04-01 22:06:02 - Convert 100 USD to EUR => 92.5 (OK)
+2025-04-01 22:43:55 - Convert 100 USD to RUB => 8403.0 (OK)
+2025-04-01 22:43:56 - Convert 100 USD to EUR => 92.5 (OK)
